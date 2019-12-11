@@ -1,24 +1,71 @@
-# README
+# Project Name
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is the first rails test app for learning rails.
 
-Things you may want to cover:
+![screenshot](./app_screenshot.png)
 
-* Ruby version
+This is the first app in the rails tutorial by Michael Hartl [railstutorial](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning#sec-introduction)
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby,
+- Ruby on Rails 6,
 
-* Database creation
+## Live Demo
 
-* Database initialization
+> This link does not work, will update once I deploy to heroku.
+[Live Demo Link](https://livedemo.com)
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Getting Started
 
-* Deployment instructions
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-* ...
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
+## Authors
+
+👤 **Rohan Sundar**
+
+- Github: [@rsundar](https://github.com/rsundar)
+
+👤 **Author2**
+
+- Github: [@githubhandle](https://github.com/githubhandle)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MiT](lic.url) licensed.
